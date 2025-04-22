@@ -2,8 +2,11 @@
 
 ## Setup
 git init                       # Inicialização de um repositório Git
+
 git config --global user.name "Seu nome"
+
 git config --global user.email "seu@email.com"
+
 git config --lit               # Lista as configurações  
 
 ## Status e Log
